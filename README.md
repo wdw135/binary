@@ -6,11 +6,11 @@ This is a simple web application that allows users to encrypt and decrypt text u
 
 ### Desktop
 
-![Desktop Preview](./images/desktop.png)
+![Desktop Preview](./src/images/desktop.png)
 
 ### Mobile
 
-![Mobile Preview](./images/mobile.png)
+![Mobile Preview](./src/images/mobile.png)
 
 ## Features
 
