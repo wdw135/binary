@@ -1,4 +1,4 @@
-# Text Encryption Web App
+# Javascript Text Encryption
 
 This is a simple web application that allows users to encrypt and decrypt text using AES encryption. The application is built with HTML, CSS, and JavaScript.
 
