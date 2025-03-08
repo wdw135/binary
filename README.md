@@ -1,26 +1,25 @@
-# Javascript Text Encryption
 
-This is a simple web application that allows users to encrypt and decrypt text using AES encryption. The application is built with HTML, CSS, and JavaScript.
+# 🔐 JavaScript Text Encryption
 
-## Preview
+This is a **simple web application** that allows users to **encrypt and decrypt text** using **AES encryption**. The application is built with **HTML, CSS, and JavaScript**.
 
-### Desktop
+## 🖥️ Preview
 
+### 💻 Desktop
 ![Desktop Preview](./src/images/desktop.png)
 
-### Mobile
-
+### 📱 Mobile
 ![Mobile Preview](./src/images/mobile.png)
 
-## Features
+## ✨ Features
 
-- **Text Encryption**: Enter any text to encrypt it securely.
-- **Text Decryption**: Encrypted text can be decrypted back to its original form.
-- **Copy to Clipboard**: Easily copy the text or encrypted text to the clipboard with a single click.
+- 🔒 **Text Encryption**: Enter any text to **securely encrypt** it.
+- 🔑 **Text Decryption**: Encrypted text can be **decoded back** to its original form.
+- 📋 **Copy to Clipboard**: Easily copy the text or encrypted text **with a single click**.
 
-## Installation
+## 🚀 Installation
 
-### Downloading the Project
+### 📥 Downloading the Project
 
 1. **Clone the Repository**:  
    Use the following command in your terminal to clone the repository to your local machine:
@@ -30,30 +29,30 @@ This is a simple web application that allows users to encrypt and decrypt text u
 
 2. **Download as ZIP**:  
    Alternatively, you can download the project as a ZIP file directly from GitHub:
-   - Go to the [repository page](https://github.com/Iqbolshoh/javascript-text-encryption).
-   - Click the "Code" button.
-   - Select "Download ZIP" to download the entire project as a ZIP file.
-   - Extract the contents of the ZIP file to a folder on your computer.
+   - 🔗 Go to the [repository page](https://github.com/Iqbolshoh/javascript-text-encryption).
+   - 🟢 Click the **"Code"** button.
+   - 📥 Select **"Download ZIP"** to download the entire project as a ZIP file.
+   - 📂 Extract the contents of the ZIP file to a folder on your computer.
 
-### Running the Project
+### 🏃 Running the Project
 
-1. After cloning or downloading, navigate to the project directory.
-2. Open the `index.html` file in your web browser.
+1. 📁 Navigate to the project directory.
+2. 🌐 Open the **`index.html`** file in your web browser.
 
-## Usage
+## 🛠 Usage
 
-1. **Encrypting Text**:
-   - Type or paste your text into the first text area.
-   - The encrypted text will automatically appear in the second text area.
+1. 🔒 **Encrypting Text**:
+   - 📝 Type or paste your text into the **first text area**.
+   - 🔐 The encrypted text will automatically appear in the **second text area**.
 
-2. **Decrypting Text**:
-   - Paste the encrypted text into the second text area.
-   - The original text will automatically appear in the first text area.
+2. 🔑 **Decrypting Text**:
+   - 📝 Paste the encrypted text into the **second text area**.
+   - 🔓 The original text will automatically appear in the **first text area**.
 
-3. **Copying Text**:
-   - Click the copy icon next to the text area to copy the text to your clipboard.
+3. 📋 **Copying Text**:
+   - 👆 Click the **copy icon** next to the text area to **copy the text** to your clipboard.
 
-## Technologies Used
+## 🖥️ Technologies Used
 
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
     <img src="https://img.shields.io/badge/HTML-%23F06529.svg?style=for-the-badge&logo=html5&logoColor=white"
