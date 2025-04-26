@@ -3,7 +3,7 @@
 
 This is a **simple web application** that allows users to **encrypt and decrypt text** using **AES encryption**. The application is built with **HTML, CSS, and JavaScript**.
 
-## 🖥️ Preview
+## 📸 Preview
 
 ### 💻 Desktop
 ![Desktop Preview](./src/images/desktop.png)
