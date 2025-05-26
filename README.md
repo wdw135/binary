@@ -11,7 +11,7 @@ This is a **simple web application** that allows users to **encrypt and decrypt 
 ### 📱 Mobile
 ![Mobile Preview](./src/images/mobile.png)
 
-## ✨ Features
+## ✨ Features 
 
 - 🔒 **Text Encryption**: Enter any text to **securely encrypt** it.
 - 🔑 **Text Decryption**: Encrypted text can be **decoded back** to its original form.
